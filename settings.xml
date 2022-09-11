@@ -1,0 +1,23 @@
+<servers>
+
+    <server>
+
+      <id>Springboot-Rel</id>
+
+      <username>admin</username>
+
+      <password>admin123</password>
+
+    </server>
+
+<server>
+
+      <id>Springboot</id>
+
+      <username>admin</username>
+
+      <password>admin123</password>
+
+    </server>
+
+</server>
