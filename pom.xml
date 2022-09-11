@@ -24,7 +24,29 @@
         <java.version>1.8</java.version>
     </properties>
 
+<distributionManagement>
 
+    <repository>
+
+      <id>Springboot-Rel</id>
+
+      <name>Springboot-Rel</name>
+
+      <url>http://43.205.239.72:8081/repository/Springboot-Rel/</url>
+
+    </repository>
+
+    <snapshotRepository>
+
+      <id>Springboot</id>
+
+      <name>Springboot</name>
+
+      <url>http://43.205.239.72:8081/repository/Springboot/</url>
+
+    </snapshotRepository>
+
+</distributionManagement>
     <build>
         <plugins>
             <plugin>
